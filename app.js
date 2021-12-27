@@ -1,5 +1,6 @@
 // Currenlty relies on predfined data for quotes, books, and projects
 // Could be improved by adding web scraping capabilities to pull larger lists from source websites
+// Source sites: https://www.goodreads.com/quotes/tag/science, https://www.goodreads.com/shelf/show/must-read, https://projecteuler.net/archives
 const quotes = [
   "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”\n― Albert Einstein",
   "“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.”\n― Isaac Asimov",
